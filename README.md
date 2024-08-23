@@ -1,4 +1,4 @@
-# POC para testar um client genérico do grpc
+# POC para testar um client grpc genérico
 
   
 
